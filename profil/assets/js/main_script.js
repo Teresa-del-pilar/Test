@@ -108,7 +108,7 @@
 
       $(function() {
           element.typed({
-              strings: ["Designer.", "Developer."],
+              strings: ["Comic Artist", "Illustrator."],
               typeSpeed: 80,
               loop: true,
           });
