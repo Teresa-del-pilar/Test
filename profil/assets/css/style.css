@@ -124,7 +124,7 @@ fieldset {
     padding: 10px 25px;
     border: none;
     color: #fff;
-    background: #77be2d;
+    background: #b6fbfe;
     font-weight: 600;
     letter-spacing: 0.5px;
     transition: 0.3s;
@@ -279,7 +279,7 @@ img {
 }
 
 .navbar-brand span {
-    color: #77be2d;
+    color: #b6fbfe;
     font-weight: 800;
     transition: 0.3s;
     -moz-transition: 0.3s;
@@ -368,7 +368,7 @@ img {
     display: inline;
     font-weight: 900;
     font-size: 100px;
-    color: #77be2d;
+    color: #b6fbfe;
 }
 
 .typed-cursor {
@@ -557,7 +557,7 @@ section {
     left: 11px;
     width: 60px;
     height: 60px;
-    background: #77be2d;
+    background: #b6fbfe;
     z-index: -1;
     transition: 0.2s ease-out;
     transform: rotate(45deg);
@@ -622,7 +622,7 @@ section {
 
 .filters li.active {
     color: #fff;
-    background-color: #77be2d;
+    background-color: #b6fbfe;
 }
 
 .filters li span {
@@ -861,7 +861,7 @@ section {
     width: 20px;
     text-align: center;
     line-height: 45px;
-    color: #77be2d;
+    color: #b6fbfe;
 }
 
 .in_name:before {content: '\f007';}
@@ -965,7 +965,7 @@ section {
     left: 50%;
     width: 36px;
     height: 36px;
-    background-color: #77be2d;
+    background-color: #b6fbfe;
     z-index: 1;
     transition: 0.2s ease-out;
     margin-left: -18px;
