@@ -695,7 +695,7 @@ section {
     left: 50%;
     width: 80px;
     height: 80px;
-    background: #77be2d;
+    background: #b6fedf;
     z-index: -1;
     transition: 0.2s ease-out;
     margin-left: -40px;
@@ -753,7 +753,7 @@ section {
     left: 50%;
     width: 60px;
     height: 60px;
-    background: #77be2d;
+    background: #b6fedf;
     z-index: -1;
     transition: 0.2s ease-out;
     margin-left: -30px;
